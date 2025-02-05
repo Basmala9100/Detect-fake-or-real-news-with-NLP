@@ -38,7 +38,9 @@ Natural Language Processing (NLP) provides powerful solutions for identifying fa
   ![SpaCy](https://img.shields.io/badge/SpaCy-000000?style=flat&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-339933?style=flat&logo=nltk&logoColor=white)
 
 - **Machine Learning Models**:  
-  ![Decision Tree](https://img.shields.io/badge/Logistic_Regression-007D9C?style=flat&logo=decision-tree&logoColor=white)
+  ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat)
+  ![Decision Tree](https://img.shields.io/badge/Decision_Tree-4CAF50?style=flat&logo=treehouse&logoColor=white)
+
 
 
 ---
