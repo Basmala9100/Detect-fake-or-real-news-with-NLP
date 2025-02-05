@@ -40,8 +40,7 @@ Natural Language Processing (NLP) provides powerful solutions for identifying fa
 - **Machine Learning Models**:  
   ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat)
   ![Decision Tree](https://img.shields.io/badge/Decision_Tree-4CAF50?style=flat&logo=treehouse&logoColor=white)
-
-
+  ![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-FFA500?style=flat&logo=apache-spark&logoColor=white)
 
 ---
 ### 💻 **Installation & Usage**
